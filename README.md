@@ -2,10 +2,10 @@
 
 ## Intro
 
-This is a small code for form validation, code along tutorial from F8 Offical
+This is a small code for form validation, code along tutorial from F8 Offical<br>
 Link playlist: [Cách validate form với Javascript (cách 1) - YouTube](https://www.youtube.com/playlist?list=PL_-VfJajZj0UjLMzxqGXUoE6iqpfbZysn) (Vietnamese)
-Authour: F8
-Website: [F8 web](https://fullstack.edu.vn/)
+<br>Authour: F8
+<br>Website: [F8 web](https://fullstack.edu.vn/)
 
 ## How to use it?
 
